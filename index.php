@@ -21,7 +21,7 @@ include "db_conn.php";
 
 <body>
   <nav class="navbar navbar-light justify-content-center fs-3 mb-5" style="background-color: #00ff5573;">
-    PHP Complete CRUD Application
+MEMBER
   </nav>
 
   <div class="container">
